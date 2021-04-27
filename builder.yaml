@@ -1,0 +1,4 @@
+projecttype: "Go"
+buildfile: "main.go"
+projectpath: "C:/Users/Ivan"
+version: 1.1
