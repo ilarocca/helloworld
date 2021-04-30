@@ -1,4 +1,6 @@
-projecttype: "Go"
-buildfile: "coolGoProject.go" 
 projectpath: "C:/Users/Ivan/Projects"
-version: 1.1
+projecttype:  "Go"
+buildtool: ""
+buildfile: "coolGoProject.go"
+buildcmd: ""
+outputpath: "C:/Users/Ivan/Artifactory"
