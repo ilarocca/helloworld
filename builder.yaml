@@ -1,4 +1,4 @@
-projectpath: "C:/Users/Ivan/Projects"
+projectpath: "C:/Users/Ivan/go/src/github.com/ilarocca"
 projecttype:  "Go"
 buildtool: ""
 buildfile: "coolGoProject.go"
