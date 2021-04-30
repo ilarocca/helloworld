@@ -1,6 +1,0 @@
-projectpath: "C:/Users/Ivan/go/src/github.com/ilarocca"
-projecttype: "Go"
-buildtool: "" 
-buildfile: "coolGoProject.go"
-buildcmd: ""
-outputpath: "C:/Users/Ivan/Artifactory" 
