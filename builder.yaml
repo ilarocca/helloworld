@@ -1,5 +1,5 @@
 projecttype: "Go"
 buildfile: "main.go"
 outputpath: "/Users/ilarocca/Documents/Artifacts/helloworld"
-projectpath: "/Users/ilarocca/Documents/helloworld"
+projectpath: "/Users/ilarocca/Documents/Builder-Projects"
 version: 1.1
