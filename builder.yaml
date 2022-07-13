@@ -1,4 +1,4 @@
 projecttype: "Go"
 buildfile: "main.go"
-projectpath: "C:/Users/Ivan"
+outputpath: "/Users/ilarocca/Documents/Artifacts/helloworld"
 version: 1.1
