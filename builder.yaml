@@ -2,4 +2,5 @@ projectType: "Go"
 buildFile: "main.go"
 outputPath: "/Users/ilarocca/Documents/Artifacts/helloworld"
 projectPath: "/Users/ilarocca/Documents/Builder-Projects"
+globalLogs: "/Users/ilarocca/Documents/Builder-Projects/globalLogs"
 version: 1.1
